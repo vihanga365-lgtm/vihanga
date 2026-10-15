@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+signals.csv
+backtest_trades.csv
+*_trades.csv
+.test-tmp/
+.env
