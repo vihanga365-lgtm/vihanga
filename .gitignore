@@ -7,3 +7,12 @@ backtest_trades.csv
 *_trades.csv
 .test-tmp/
 .env
+build/
+dist/
+/*.exe
+*.spec
+.build-deps/
+desktop-test-temp/
+desktop-verified-tests/
+desktop-verified-tests-*/
+desktop-gui-test/
